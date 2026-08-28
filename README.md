@@ -5,7 +5,7 @@ A complete guide and required files to set up the `graphics.h` library in Code::
 ## 🚀 Setup Instructions
 
 ### Step 1: Install TDM-GCC Compiler
-1. Download the MinGW.org based TDM-GCC 10.3.0 (32-bit).
+1. Download the MinGW.org based [TDM-GCC 10.3.0 (32-bit)](https://jmeubank.github.io/tdm-gcc/articles/2021-05/10.3.0-release).
 2. Install it in the default directory: `C:\TDM-GCC-32`.
 3. Make sure to uncheck the "update" option during installation.
 
