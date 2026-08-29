@@ -1,6 +1,6 @@
 # WinBGIm (graphics.h) Setup in Code::Blocks
 
-A complete guide and required files to set up the `graphics.h` library in Code::Blocks using the 32-bit TDM-GCC compiler for Computer Graphics lab projects.
+A complete guide and required files to set up the `graphics.h` library in Code::Blocks using the 32-bit TDM-GCC compiler for Computer Animation Graphics lab projects.
 
 ## 🚀 Setup Instructions
 
